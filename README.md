@@ -14,7 +14,7 @@ Supported functions for Manual Sync scripts:
 # Description
 This is a script designed to allow the best of both worlds for syncing VRCPickups in VRChat and save time making new pickup scripts with overlapping functionality. ManualSyncProxy has additional customization to include things like 
 - Respawning after being dropped and unused for a set time
-- Cooldown time for each use
+- Cooldown time for any repeated use
 - Timing forgiveness to queue the next use intuitively on cooldown
 - Automatic fire
 - Network ownership management for the target Manual Sync script to keep up with the VRCPickup
