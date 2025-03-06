@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=0LZ4XHQcYq4
+
 # How to use
 - Add ManualSyncProxy to the same GameObject as the VRCPickup with VRCObjectSync
 - Drag the VRCPickup and VRCObjectSync components (or GameObject from the heirarchy) onto the VRCPickup and VRCObjectSync variables on the ManualSyncProxy component.
