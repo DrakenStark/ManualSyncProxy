@@ -19,7 +19,7 @@ This is a script designed to allow the best of both worlds for syncing VRCPickup
 - Automatic fire
 - Network ownership management for the target Manual Sync script to keep up with the VRCPickup's network ownership
 
-I've been making pickup based scripts for a while and I've found myself repeatedly implementing these features in them. My goal being to up the intuitive quality for pickups across multiple VRChat worlds and events. ManualSyncProxy is intended to simplify the Manual Sync pickup scripts that need to be created, streamlining them to on their unique functionality.
+I've been making pickup based scripts for a while and I've found myself repeatedly implementing these features in them. My goal being to up the intuitive quality for pickups across multiple VRChat worlds and events. ManualSyncProxy is intended to simplify the Manual Sync pickup scripts that need to be created, streamlining them for focus on their unique functionality.
 
 ManualSyncProxy does not include a target Manual Sync script example. I've not yet designed one that I feel is versatile enough to include as part of this repository.
 
