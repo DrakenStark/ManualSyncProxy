@@ -28,4 +28,4 @@ VRChat has two kinds of Sync modes for scripts: Continuous and Manual. These two
 - Continuous: Periodically updates variables. Great for syncing positions of things, hense why VRCObjectSync uses it.
 - Manual: Updates variables immediately and only when told to do so. This is great for when players cause an event to happen, like pushing a button. This is great for when pickups have literally any functionality that other players should see that relies on pressing the Use button.
 
-The solution is a script like ManualSyncProxy, which can forward the local functions of the Pickup instantly over to a separate GameObject that can use the Manual Sync mode. This technique offers the best of both worlds, provided you know how to create or edit scripts.
+The solution is a script like ManualSyncProxy, which can forward the local functions of the Pickup instantly over to a separate GameObject that can use the Manual Sync mode. This technique offers the best of both worlds, provided you know how to create or edit any target Manual Sync scripts.
